@@ -10,6 +10,8 @@ public class DrawManager : MonoBehaviour
     [SerializeField] private Line linePrefab;
 
     public const float RESOLUTION = 0.1F;
+    
+    
 
     private Line currentLine;
     
